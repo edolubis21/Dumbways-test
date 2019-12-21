@@ -9,4 +9,6 @@ no 4. untuk soal no 4 hasilnya sudah sesuai dengan soal bisa di buka di https://
 
 no 5. untuk soal no 5 hasilnya sudah sesuai dengan soal jawaban bisa dilihat di screen shoot
 
+no 6. jawaban masih belum sempurna
+
 no 7. 
