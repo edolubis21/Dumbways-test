@@ -8,3 +8,5 @@ no 3. untuk soal no 3 hasilnya sudah sesuai dengan soal bisa di buka di https://
 no 4. untuk soal no 4 hasilnya sudah sesuai dengan soal bisa di buka di https://rextester.com/l/php_online_compiler
 
 no 5. untuk soal no 5 hasilnya sudah sesuai dengan soal jawaban bisa dilihat di screen shoot
+
+no 7. 
