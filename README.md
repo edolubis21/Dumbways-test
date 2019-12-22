@@ -1,5 +1,5 @@
 # Dumbways-test
-no 1. untuk soal no 1 hasilnya sudah sesuai dengan soal dan  bisa di buka di https://es6console.com/
+no 1. untuk soal no 1 hasilnya bisa langsung dibuka di web browser
 
 no 2. untuk soal no 2 hasilnya sudah sesuai dengan soal bisa di buka di https://es6console.com/
 
